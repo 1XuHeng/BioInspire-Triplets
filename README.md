@@ -342,7 +342,7 @@ test.json
 under:
 
 ```text
-data/https://doi.org/10.5281/zenodo.22263012
+https://doi.org/10.5281/zenodo.22263012
 ```
 
 ### Step 4. Fine-tune the models
